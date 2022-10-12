@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: black;
+}
+.contenedor{
+    background-color: burlywood;
+    margin: 50px;
+    margin-left: 200px;
+    margin-right: 200px;
+    height: 600px;
+    border-radius: 20px;
+}
+form{
+    width: 100%;
+    border-radius: 20px;
+}
+.titulo{
+    width: 100%;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 40px;
+}
+label{
+    margin-left: 150px;
+}
