@@ -10,7 +10,7 @@
 
 <body>
 	<div class="contenedor">
-		<form action="" method="post">
+		<form action="validacion.php" method="post">
 			<h2>Login</h2>
 			<br>
 			<label for="Correo">Correo</label>
