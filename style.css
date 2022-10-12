@@ -25,4 +25,29 @@ form{
 }
 label{
     margin-left: 150px;
+    font-size: 30px;
+    font-weight: bold;
+}
+input{
+    
+    margin-top: 40px;
+    margin-left: 150px;
+    width: 50%;
+    height: 30px;
+    border: none;
+    border-bottom: black solid;
+    background: none;
+    font-size: 20px;
+    outline: none;
+}
+button{
+    margin-top: 30px;
+    margin-left: 450px;
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    background-color: brown ;
+    border: black 3px solid;
+    font-size: 20px ;
+    
 }
